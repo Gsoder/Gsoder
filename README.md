@@ -25,6 +25,9 @@
     <img aling="center" style="height: 100%;object-fit: cover;" alt="SQL" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png">
 </div><br>
 
+
+<h1 style="-webkit-text-stroke: 2px #ffffff; "></h1>
+
 ![GSoder GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsoder&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsoder&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
