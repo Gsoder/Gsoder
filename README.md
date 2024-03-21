@@ -1,7 +1,7 @@
 
 <div align="center">
 <div class="col-lg-7 text-center text-lg-left">
-                    <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff; ">Olá eu sou Gabriel Soder</h1>
+                    <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff; ">Olá eu sou Gabriel Soder👋</h1>
                     <div class="typed-text d-none">Web Developer, Back End and Front End Developer, Apps Designer, Apps Developer</div>
                      <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff;"></h1>
                 </div>
@@ -12,6 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabzamsoder@gmail.com?subject=Olá!%20Gostaria%20de%20saber%20mais%20informações!&body=)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soder-40637a2b8/)
 
+<h1 style="-webkit-text-stroke: 2px #ffffff; "></h1>
 
 
 ### Tecnologias que eu uso no meu dia
