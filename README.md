@@ -15,7 +15,7 @@
 <h1 style="-webkit-text-stroke: 2px #ffffff; "></h1>
 
 
-### Tecnologias que eu uso no meu dia
+### Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block; height: 60px">
     <img aling="center" style="height: 100%;object-fit: cover;" alt="C#" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png">
