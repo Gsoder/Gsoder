@@ -1,5 +1,5 @@
 
-
+<div align="center">
 <div class="col-lg-7 text-center text-lg-left">
                     <h1 class="display-3 text-uppercase text-primary mb-2" style="-webkit-text-stroke: 2px #ffffff; ">Olá eu sou Gabriel Soder</h1>
                     <div class="typed-text d-none">Web Developer, Back End and Front End Developer, Apps Designer, Apps Developer</div>
@@ -26,9 +26,10 @@
 </div><br>
 
 
+
 <h1 style="-webkit-text-stroke: 2px #ffffff; "></h1>
 
 ![GSoder GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsoder&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsoder&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsoder&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-     
+<h1 style="-webkit-text-stroke: 2px #ffffff; "></h1>
