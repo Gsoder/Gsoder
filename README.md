@@ -12,11 +12,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabzamsoder@gmail.com?subject=Olá!%20Gostaria%20de%20saber%20mais%20informações!&body=)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-soder-40637a2b8/)
 
-![GSoder GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsoder&show_icons=true&theme=radical)
 
-
-
-     
 
 ### Tecnologias que eu uso no meu dia
 
@@ -27,7 +23,9 @@
     <img aling="center" style="height: 100%;object-fit: cover;" alt="JAVASCRIPT" src="https://cdn-icons-png.flaticon.com/128/541/541509.png">
     <img aling="center" style="height: 100%;object-fit: cover;" alt=".NET" src="https://cdn-icons-png.flaticon.com/128/2748/2748383.png">
     <img aling="center" style="height: 100%;object-fit: cover;" alt="SQL" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png">
-    <img aling="center" style="height: 100%;object-fit: cover;" alt="JAVA" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png">
-    
-  
-</div>
+</div><br>
+
+![GSoder GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsoder&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsoder&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+     
